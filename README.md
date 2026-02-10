@@ -46,3 +46,15 @@ This project demonstrates a cloud-based home Security Operations Center (SOC). A
 - Threat detection and visualization
 
 - Filtering high-volume event data to identify key threats
+
+![Azure Resource Group](images/01_resource_group.jpg)
+*Azure Resource Group showing honeypot VM deployment*
+
+![Microsoft Sentinel Logs](images/02_total_logs.jpg)
+*Shows total logs collected (70k+ events)*
+
+![Microsoft Sentinel Top 10 Cities](images/03_top10_logs.jpg)
+*Top 10 attacker locations*
+
+![Windows VM Attack Map](images/04_attack_map.jpg)
+*Real-time attack map showing attacker distribution*
