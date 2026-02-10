@@ -47,6 +47,8 @@ This project demonstrates a cloud-based home Security Operations Center (SOC). A
 
 - Filtering high-volume event data to identify key threats
 
+## Images
+
 ![Azure Resource Group](images/01_resource_group.jpg)
 *Azure Resource Group showing honeypot VM deployment*
 
